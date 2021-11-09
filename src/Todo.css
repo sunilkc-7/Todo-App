@@ -1,0 +1,27 @@
+
+h1{
+
+width:500px;
+    margin: 0 auto;
+    text-align: center;
+            height: 100px;
+            width: 100%;
+            line-height:2;
+
+
+}
+
+.Image{
+background-image: url(./image1.jpg);
+    width: 100%;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+
+}
+
+
+ 
